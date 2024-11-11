@@ -37,8 +37,8 @@ These are the tools and technologies I use to turn data chaos into structured, a
 ---
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=mrbamanan&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbamanan&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=dimahluodba96&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimahluodba96&theme=react&layout=compact" />
 </p>
 
 ---
